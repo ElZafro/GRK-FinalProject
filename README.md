@@ -12,3 +12,7 @@ This scene rendered in OpenGL showcases the following functionalities:
 - Documentation 1-2 pages
 
 Besides, there are 2 major algorithms which are not decided yet.
+
+## How to clone and run the repo:
+Click on the green button *Code* and then click on *Open with Visual Studio*, then go through the wizard to install it locally.
+Once that's done, just hit Compile & Run inside Visual Studio.
